@@ -48,7 +48,7 @@ android_app_import {
 	name: "MotCamera3",
 	owner: "motorola",
 	apk: "proprietary/system_ext/priv-app/MotCamera3/MotCamera3.apk",
-	overrides: ["Aperture", "Camera2"],
+	overrides: ["Aperture", "Camera2", "Flash"],
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
